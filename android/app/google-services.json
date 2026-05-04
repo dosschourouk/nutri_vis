@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894457547113",
+    "project_id": "nutrivis-c601b",
+    "storage_bucket": "nutrivis-c601b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894457547113:android:3619961e2aef569444d5f8",
+        "android_client_info": {
+          "package_name": "com.example.nutri_vis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfIm0dhKpLaUNqxVtz1uQI00cNuw3tKyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
